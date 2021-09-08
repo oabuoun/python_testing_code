@@ -1,0 +1,8 @@
+
+          List  |   Tuple |   Set   |   frozenset
+Mutable   Yes   |   No    |   Yes   |   No
+Order     Yes   |   Yes   |   No    |   No
+index     Yes   |   Yes   |   No    |   No
+Item-Ch   Yes   |   No    |   No    |   No
+Item-Dup  Yes   |   Yes   |   No    |   No
+Declare    []   |    ()   |  {}/set | frozenset

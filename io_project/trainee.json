@@ -1,0 +1,15 @@
+{
+    "fname": "Adam",
+    "lname": "Smith",
+    "group": {
+        "G1": "Eng-94",
+        "G2": "Cyber2"
+    },
+    "year": [
+        2020,
+        2021,
+        2022
+    ],
+    "subscribed": false,
+    "courses": null
+}

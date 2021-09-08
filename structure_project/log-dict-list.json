@@ -1,0 +1,31 @@
+{
+    "results": [
+        {
+            "number1": 10,
+            "number2": 10,
+            "sum": 20,
+            "sub": 0,
+            "sub2": 0,
+            "mul": 100,
+            "div": 1.0
+        },
+        {
+            "number1": 20,
+            "number2": 20,
+            "sum": 40,
+            "sub": 0,
+            "sub2": 0,
+            "mul": 400,
+            "div": 1.0
+        },
+        {
+            "number1": 30,
+            "number2": 30,
+            "sum": 60,
+            "sub": 0,
+            "sub2": 0,
+            "mul": 900,
+            "div": 1.0
+        }
+    ]
+}
